@@ -4,7 +4,7 @@
 
 Course materials for Big Data in Astrophysics
 
-* The topics of each week's lectures are described in the syllabus PDF 
+* The topics of each week's lectures are described on the Canvas page.
 
 * Lectures are in directories named XY/ where XY/ is the number of the week
 
